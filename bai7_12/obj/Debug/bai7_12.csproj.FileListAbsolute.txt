@@ -1,0 +1,9 @@
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\bin\Debug\bai7_12.exe.config
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\bin\Debug\bai7_12.exe
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\bin\Debug\bai7_12.pdb
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\obj\Debug\bai7_12.csproj.AssemblyReference.cache
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\obj\Debug\bai7_12.Properties.Resources.resources
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\obj\Debug\bai7_12.csproj.GenerateResource.cache
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\obj\Debug\bai7_12.csproj.CoreCompileInputs.cache
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\obj\Debug\bai7_12.exe
+C:\Users\ZachCMD\Desktop\GIT\bai7_12\bai7_12\obj\Debug\bai7_12.pdb
